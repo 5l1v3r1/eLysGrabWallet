@@ -28,6 +28,8 @@ The stealer works on mac os and windows!
 available on 09/15/22
 <br>
 recover the 12 security phrases, Metamask is already there, I miss adding True Wallet!
+<br>
+but a like so that I can get it out faster :)
 
 ## Preview (no finish in develope)
 ![Recovery](https://github.com/AeX03/eLysGrabWallet/blob/main/picture/stealer.png)
